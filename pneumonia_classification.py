@@ -1,4 +1,4 @@
-import opencv-python-headless
+import cv2
 import tensorflow as tf
 import streamlit as st
 from PIL import Image
